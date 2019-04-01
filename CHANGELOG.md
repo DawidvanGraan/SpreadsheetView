@@ -12,6 +12,12 @@
 
 * None.  
 
+## 0.9.0 Release notes (2019-04-01)
+
+##### Enhancements
+
+* Upgrade to Swift 4.2
+
 ## 0.8.4 Release notes (2017-09-09)
 
 ##### Breaking
